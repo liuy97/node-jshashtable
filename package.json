@@ -1,9 +1,9 @@
 {
   "name": "node-jshashtable",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "A standalone implementation of hash table in node.",
   "main": "cjs/index.js",
-  "browser": "dist/nodeHashtable.js",
+  "browser": "dist/Hashtable.js",
   "module": "es/index.js",
   "jsxnext:main": "es/index.js",
   "files": [
