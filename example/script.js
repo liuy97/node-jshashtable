@@ -1,1 +1,1 @@
-const nodeHashtable = require(`../`);
+const Hashtable = require(`../`);
